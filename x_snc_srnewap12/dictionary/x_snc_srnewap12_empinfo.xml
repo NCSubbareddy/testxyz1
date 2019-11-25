@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="EmpInfo" max_length="40" name="x_snc_srnewap12_empinfo" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="EmpName" max_length="40" name="empname" type="string"/>
+        <element label="EmpSalary" max_length="40" name="empsalary" type="float"/>
+    </element>
+</database>
